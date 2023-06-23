@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_WAWeb Automation</name>
+   <tag></tag>
+   <elementGuidId>4cd25b46-a6a5-4259-8445-152a355efda2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.project-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div[2]/div/div[2]/div/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f4c23f6b-d47f-4ce5-bd87-7487e6aeab23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Web Automation</value>
+      <webElementGuid>eba5a154-d39a-429d-9cb2-9a90a221a480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>project-header</value>
+      <webElementGuid>5099134f-aaa7-42c8-b45f-d582a761468d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WAWeb Automation</value>
+      <webElementGuid>a86a8f20-9526-49ed-93e7-81f88d4191a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;main-body-wrapper&quot;]/div[@class=&quot;main-body&quot;]/div[@class=&quot;dashboard-card&quot;]/div[@class=&quot;card&quot;]/a[1]/div[@class=&quot;card-header&quot;]/div[@class=&quot;project-header&quot;]</value>
+      <webElementGuid>d2d81821-3437-4810-bae6-67df7bfb3cd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div[2]/div/div[2]/div/a/div/div</value>
+      <webElementGuid>35ed71ad-100f-42ff-aa90-6962422914ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View all projects'])[1]/following::div[4]</value>
+      <webElementGuid>7c1a4731-e237-46c3-b589-eecee401a5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent Projects'])[1]/following::div[4]</value>
+      <webElementGuid>8061eef8-71c9-4cac-b34f-4048615d88be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Cases'])[1]/preceding::div[6]</value>
+      <webElementGuid>198c6532-d410-48f7-a75e-ab7ed5152254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Web Automation']/parent::*</value>
+      <webElementGuid>0530c56d-b13b-4a73-8095-44737005e55e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div</value>
+      <webElementGuid>aea8f5b5-9f22-4f41-8906-744bd7353720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Web Automation' and (text() = 'WAWeb Automation' or . = 'WAWeb Automation')]</value>
+      <webElementGuid>3f529c0c-5b46-490f-bb03-1d55fbdc512b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

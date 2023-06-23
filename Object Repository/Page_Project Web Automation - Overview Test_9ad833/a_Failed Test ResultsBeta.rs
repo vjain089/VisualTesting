@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Failed Test ResultsBeta</name>
+   <tag></tag>
+   <elementGuidId>5ce81947-04c4-4bda-9326-0a568ed0a63f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div/div[2]/div/ul/a[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f60c93b7-7d04-4494-974d-4facebcbd5f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-tab__nav__nav-link tab-button  d-flex align-items-center</value>
+      <webElementGuid>8e22c482-ef2f-4428-8570-c7f164f01ab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/team/1052183/project/1066204/failed-test-result</value>
+      <webElementGuid>9b5a186c-5f33-4b90-983b-893d4c3dc408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Failed Test ResultsBeta</value>
+      <webElementGuid>b16d8f39-8c6e-4969-909a-051d8ee33f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;main-header transition-visible&quot;]/div[@class=&quot;object-summary&quot;]/div[@class=&quot;object-tab-info&quot;]/div[@class=&quot;page-tab&quot;]/ul[@class=&quot;page-tab__nav nav&quot;]/a[@class=&quot;page-tab__nav__nav-link tab-button  d-flex align-items-center&quot;]</value>
+      <webElementGuid>77985011-be97-46d1-afd5-ecc76088b760</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div/div[2]/div/ul/a[5]</value>
+      <webElementGuid>4d5bafd8-50a2-4df4-9c48-2ffb3daa42c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Run Frequency'])[1]/following::a[1]</value>
+      <webElementGuid>0b3d637d-0b5c-4f4b-a01c-b1ca543bb05b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Summary by Test Result'])[1]/following::a[2]</value>
+      <webElementGuid>bf59ee4b-ff32-4bc6-85fb-a25c1c6bfa5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing data for'])[1]/preceding::a[1]</value>
+      <webElementGuid>14eff209-3504-4d6d-ba76-24806d681302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Failed Test Results']/parent::*</value>
+      <webElementGuid>f0363d13-ff8d-4434-b852-bbc008430da1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/team/1052183/project/1066204/failed-test-result')]</value>
+      <webElementGuid>5f23426d-567c-4679-b8e8-f6225e9ffade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>1475a7d9-819d-425d-b3de-363b2f44c33e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/team/1052183/project/1066204/failed-test-result' and (text() = 'Failed Test ResultsBeta' or . = 'Failed Test ResultsBeta')]</value>
+      <webElementGuid>b3b9686f-e97c-405c-a778-08693b4555c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
