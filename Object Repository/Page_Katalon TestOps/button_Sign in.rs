@@ -6,15 +6,16 @@
    <elementGuidId>cab59d6d-dcf8-4417-89c6-3e936ca6a51b</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;kc-content-wrapper&quot;]//input[@name='login']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>button.signin-button.px-4.btn.btn-secondary</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@type='submit']</value>
-      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>156df2c3-4cb7-4414-93cd-49ee0866d1c8</webElementGuid>
+      <webElementGuid>833ea73d-5a6b-4134-9584-e5c2b263462a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>6e2c9036-c1e2-456a-a09a-42f8a025849a</webElementGuid>
+      <webElementGuid>9a887259-e477-437d-8221-a01d41e8a47e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>signin-button px-4 btn btn-secondary</value>
-      <webElementGuid>43f693cb-d430-4ac1-939d-d1382fca08ae</webElementGuid>
+      <webElementGuid>d5a56e13-e712-48e8-a5ca-deded9a87875</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign in</value>
-      <webElementGuid>83c583d8-10e0-49ca-aaa4-d1cd15d25876</webElementGuid>
+      <webElementGuid>0197e4e1-1844-4d1f-840b-6b9b96c49836</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main-content&quot;)/div[@class=&quot;login-page flex-fill align-items-center mx-0 row&quot;]/div[@class=&quot;col-sm-8 offset-sm-4 col-md-7 offset-md-5 col-lg-4 offset-lg-5&quot;]/div[@class=&quot;login-card mx-auto shadow-none card&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;login-form m-0&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;justify-content-between row&quot;]/div[@class=&quot;mt-2 col-auto&quot;]/button[@class=&quot;signin-button px-4 btn btn-secondary&quot;]</value>
-      <webElementGuid>2bb755b3-1672-487b-8fb7-ae2dd9543644</webElementGuid>
+      <webElementGuid>19d84be3-ba42-4285-818d-e4abb6ef7cfb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>6ce9c5c6-703f-4acf-ae25-db3f33289c08</webElementGuid>
+      <webElementGuid>654b6c5e-b09f-4c7f-8f4d-da341473e334</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='main-content']/div/div/div/div[2]/form/div[6]/div/div[2]/button</value>
-      <webElementGuid>93cfdb8e-fff4-4436-8b2f-c47e0b0a7569</webElementGuid>
+      <webElementGuid>f849bf01-4267-4b7f-83de-61fae309442e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/following::button[1]</value>
-      <webElementGuid>e75a0035-31a2-46db-980a-bb08b50b7a55</webElementGuid>
+      <webElementGuid>2d01ed53-52ee-4da1-878d-e00b048ff813</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Terms of Service and Privacy Policy'])[1]/following::button[1]</value>
-      <webElementGuid>154fd6d3-a4f9-412e-88fe-7b889a3738dd</webElementGuid>
+      <webElementGuid>0b08d4cc-d667-4b60-94d5-e490cb8db39f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/preceding::button[1]</value>
-      <webElementGuid>6b504805-9442-4730-a40a-a6450796fa14</webElementGuid>
+      <webElementGuid>79b0e22f-ec54-475c-ab9f-9ed9103eb86a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign in']/parent::*</value>
-      <webElementGuid>327ad8f3-5e08-4635-928b-6b29debc3f3c</webElementGuid>
+      <webElementGuid>09071eaa-7675-4ac1-9dcc-cd77adbf5e71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>4045465a-07c9-4fd4-94a5-6c8a344fe97a</webElementGuid>
+      <webElementGuid>3d1b4995-8e1f-484a-9729-1faf4704c2e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Sign in' or . = 'Sign in')]</value>
-      <webElementGuid>f68b313b-2881-414b-a67d-b99ee5ed21dc</webElementGuid>
+      <webElementGuid>09470271-562c-499e-bc3c-6f46183357c1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

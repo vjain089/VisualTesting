@@ -6,15 +6,15 @@
    <elementGuidId>005d3ab2-c5e5-4e8a-85b1-7f60ce4c2f89</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Reports' or . = 'Reports')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='top-center-navbar']/nav/ul/li[5]/a/a/span</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>36bd66cc-3943-4f29-9685-e68668137e69</webElementGuid>
+      <webElementGuid>4b064f8d-a11f-430c-bef4-9c40c9f34f5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-item-label</value>
-      <webElementGuid>e174808b-46d0-4ba1-b514-73b8888e038d</webElementGuid>
+      <webElementGuid>964a0062-4cd2-4cb4-9789-0c0b89debe8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Reports</value>
-      <webElementGuid>85dc84c4-070d-408b-8f50-58d06338f90c</webElementGuid>
+      <webElementGuid>b844d5d5-38d5-44ae-bc39-3e496cf1e6cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top-center-navbar&quot;)/nav[@class=&quot;custom-navbar testops-theme expanded navbar&quot;]/ul[@class=&quot;sidebar-main navbar-nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/a[1]/span[@class=&quot;nav-item-label&quot;]</value>
-      <webElementGuid>770eeaa0-c641-4236-8abb-4dc7d17f343c</webElementGuid>
+      <webElementGuid>022bf87c-4923-42b6-8125-7073b318995e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='top-center-navbar']/nav/ul/li[5]/a/a/span</value>
-      <webElementGuid>79281373-14fd-4d35-b4c8-ba198473bde5</webElementGuid>
+      <webElementGuid>eb517efd-8ef9-4b3f-a69a-cb1f4e3382ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Executions'])[1]/following::span[1]</value>
-      <webElementGuid>1d82e21d-ba77-4a27-8c6f-0e1471b15947</webElementGuid>
+      <webElementGuid>19785831-df6a-494e-82db-50e414317754</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tests'])[1]/following::span[2]</value>
-      <webElementGuid>746f0880-89ed-4d86-82b1-300f5ae27d43</webElementGuid>
+      <webElementGuid>c4148b9e-53f4-418c-8ff6-5aca076bbdfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Visual Testing'])[1]/preceding::span[1]</value>
-      <webElementGuid>188af7c6-f8de-4d90-9b28-52c26a77d08c</webElementGuid>
+      <webElementGuid>ac3ae465-a0a3-49e7-a4a8-2a3489ee4a8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Configurations'])[1]/preceding::span[2]</value>
-      <webElementGuid>bf33a123-a09a-4663-93b7-7591f9177cff</webElementGuid>
+      <webElementGuid>3b6e5227-502c-4b8b-8d9a-dbbde5976d7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Reports']/parent::*</value>
-      <webElementGuid>8e394510-d78a-4a09-9a5e-1c8956307c07</webElementGuid>
+      <webElementGuid>cf2091bc-db1f-41ce-b578-f114eacf0c69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/a/a/span</value>
-      <webElementGuid>4ccfeefb-82ef-4b23-b2f0-7d08fd8cd87b</webElementGuid>
+      <webElementGuid>6911bd89-b8b8-4847-939b-4c4c0334ad09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Reports' or . = 'Reports')]</value>
-      <webElementGuid>3c0b9622-69d4-42bb-b045-07704e0f5837</webElementGuid>
+      <webElementGuid>b1bf4a5a-3ebc-4c91-b92e-23e68b794fb2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
