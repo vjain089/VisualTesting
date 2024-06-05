@@ -19,31 +19,21 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://testops.katalon.io/')
+WebUI.navigateToUrl('https://www.incredibleindia.org/content/incredible-india-v2/en/destinations.html')
 
-WebUI.maximizeWindow()
+WebUI.setText(findTestObject('Object Repository/Page_Destinations  Incredible India/input_Name_txtUserName'), 'vaibhav')
 
-WebUI.takeScreenshotAsCheckpoint('New_Screenshot1')
+WebUI.setText(findTestObject('Object Repository/Page_Destinations  Incredible India/input_Email ID_txtEmail'), 'vjain089@gmail.com')
 
-WebUI.setText(findTestObject('Object Repository/Page_Katalon TestOps/input_Sign Up_username'), 'vaibhav.jain@katalon.com')
+WebUI.click(findTestObject('Object Repository/Page_Destinations  Incredible India/button_Submit'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Katalon TestOps/input_Sign Up_password'), 'icP23tTPdju9Jtuxowinrg==')
+WebUI.takeScreenshotAsCheckpoint('Screenshot1')
 
-WebUI.click(findTestObject('Object Repository/Page_Katalon TestOps/button_Sign in'))
+WebUI.click(findTestObject('Object Repository/Page_Destinations  Incredible India/span_'))
 
-WebUI.takeScreenshotAsCheckpoint('New_Screenshot2')
+WebUI.click(findTestObject('Object Repository/Page_Destinations  Incredible India/h2_Siliguri'))
 
-WebUI.click(findTestObject('Object Repository/Page_My Organization_01_Vai - Katalon TestOps/div_WAWeb Automation'))
-
-WebUI.takeScreenshotAsCheckpoint('New_Screenshot3')
-
-WebUI.click(findTestObject('Object Repository/Page_Dashboard - Katalon TestOps/span_Reports'))
-
-WebUI.takeScreenshotAsCheckpoint('New_Screenshot4')
-
-WebUI.click(findTestObject('Object Repository/Page_Project Web Automation - Overview Test_9ad833/a_Failed Test ResultsBeta'))
-
-WebUI.takeScreenshotAsCheckpoint('New_Screenshot5')
+WebUI.takeScreenshotAsCheckpoint('Screenshot2')
 
 WebUI.closeBrowser()
 

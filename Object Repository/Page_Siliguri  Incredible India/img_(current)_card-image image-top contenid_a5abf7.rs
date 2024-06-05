@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_(current)_card-image image-top contenid_a5abf7</name>
+   <tag></tag>
+   <elementGuidId>75e27cb0-a9ca-4cb7-b9ae-065862dcd9c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.card-image.image-top.contenido.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarContent']/ul/li/div/div/div/div/a/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a846bc19-9c62-4df4-a733-952e2bc63580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-image image-top contenido lazyloaded</value>
+      <webElementGuid>063a5403-5f15-449a-bad5-fa2773e3fbcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/content/dam/incredibleindia/images/places/agra/agra-tajmahal-11.jpg/jcr:content/renditions/cq5dam.web.512.288.jpeg</value>
+      <webElementGuid>fab8ccd7-5f64-45b1-9a8d-b67942dbff89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>/content/dam/incredibleindia/images/places/agra/agra-tajmahal-11.jpg/jcr:content/renditions/cq5dam.web.512.288.jpeg</value>
+      <webElementGuid>38debbaa-9d01-48c5-b08e-3dc093feaa4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Popular Destinations</value>
+      <webElementGuid>c35d9b83-d043-49ef-a2cb-7eee22f0fcce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarContent&quot;)/ul[@class=&quot;navbar-nav mr-auto&quot;]/li[@class=&quot;dropdown dropdown-megamenu nav-item&quot;]/div[@class=&quot;dropdown-container Destinations&quot;]/div[@class=&quot;container pt-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-md-3 col-lg-3 mb-5&quot;]/a[@class=&quot;no-underline menu-card-item&quot;]/div[@class=&quot;card-default menu-card border-0&quot;]/div[@class=&quot;cust-width-ratio width-ratio-no-shadow ratio16-9&quot;]/img[@class=&quot;card-image image-top contenido lazyloaded&quot;]</value>
+      <webElementGuid>8d2b5030-2d42-4489-b67c-9a00de1e8308</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarContent']/ul/li/div/div/div/div/a/div/div/img</value>
+      <webElementGuid>bb1c3e4c-e026-4106-ab69-dddda19f94dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Popular Destinations']</value>
+      <webElementGuid>4fba6cd6-df19-411e-98a3-07662c77e543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>780f1e3b-ed62-4952-a068-bf5f098c5ec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/content/dam/incredibleindia/images/places/agra/agra-tajmahal-11.jpg/jcr:content/renditions/cq5dam.web.512.288.jpeg' and @alt = 'Popular Destinations']</value>
+      <webElementGuid>6e1e1caa-1552-4657-a7d4-32e43ce2176d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

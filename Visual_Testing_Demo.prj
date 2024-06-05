@@ -4,7 +4,10 @@
    <name>Visual_Testing_Demo</name>
    <tag></tag>
    <UUID>d1ef1553-7291-4215-9f1c-d9b16b61edfb</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.5.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>/Users/vaibhavjain/Katalon Studio/Visual_Testing_Demo/Visual_Testing_Demo.prj</projectFileLocation>
    <sourceContent>
