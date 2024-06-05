@@ -25,9 +25,11 @@ WebUI.maximizeWindow()
 
 WebUI.takeScreenshotAsCheckpoint('New_Screenshot1')
 
+WebUI.click(findTestObject('Page_Katalon TestOps/link_ContinuewithEmail'))
+
 WebUI.setText(findTestObject('Object Repository/Page_Katalon TestOps/input_Sign Up_username'), 'vaibhav.jain@katalon.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Katalon TestOps/input_Sign Up_password'), 'icP23tTPdju9Jtuxowinrg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Katalon TestOps/input_Sign Up_password'), 'icP23tTPdjsOed6Z/XwIKg==')
 
 WebUI.click(findTestObject('Object Repository/Page_Katalon TestOps/button_Sign in'))
 
